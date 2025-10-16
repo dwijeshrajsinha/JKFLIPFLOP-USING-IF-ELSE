@@ -14,7 +14,8 @@ Quartus prime
 
 JK flip-flop is the modified version of SR flip-flop. It operates with only positive clock transitions or negative clock transitions. The circuit diagram of JK flip-flop is shown in the following figure.
 
-![image](https://github.com/naavaneetha/JKFLIPFLOP-USING-IF-ELSE/assets/154305477/a649c30b-232b-4558-b188-fd6c09845180)
+![WhatsApp Image 2025-10-15 at 10 06 00_83effa31](https://github.com/user-attachments/assets/ddf20a0f-a446-4ec2-858c-0e76a6d9462c)
+
 
 
 This circuit has two inputs J & K and two outputs Qtt & Qtt’. The operation of JK flip-flop is similar to SR flip-flop. Here, we considered the inputs of SR flip-flop as S = J Qtt’ and R = KQtt in order to utilize the modified SR flip-flop for 4 combinations of inputs. The following table shows the state table of JK flip-flop.
@@ -37,12 +38,15 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+<img width="1821" height="897" alt="Screenshot 2025-10-16 165651" src="https://github.com/user-attachments/assets/5fa4703e-f7cc-4ff8-8178-cc4ca6af3992" />
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![WhatsApp Image 2025-10-15 at 10 06 01_606976e7](https://github.com/user-attachments/assets/58c4e86b-8895-4459-a93c-ae19d4b6f9e3)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+thus the logic is verified and studied successfully
